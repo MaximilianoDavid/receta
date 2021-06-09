@@ -1,0 +1,28 @@
+.pizza{
+    width: 25%    
+}
+    
+body{
+    background-color: antiquewhite;
+}
+
+h1, h2{
+    text-align: center;
+    color : red;
+    font-family: monospace;
+}
+
+h3{
+    color: cadetblue;
+    font-size: 20px;
+    font-style: italic;
+}
+
+p{
+   text-align: center;
+   font-family: monospace;
+}
+
+ol , li , ul {
+    font-family: monospace;
+}
